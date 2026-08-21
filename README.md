@@ -7,8 +7,8 @@ Decision-Making*.
 > Reads driver stress and fatigue from team-radio audio and turns it into
 > pit-wall strategy calls.
 
-**Team BotGods** — Abhishek Choudhary · Shreevats Dhyani · Akshat Saraswat ·
-Divyanshu Kasherwal
+**Team BotGods** — Divyanshu Kasherwal · Shreevats Dhyani · Akshat Saraswat ·
+Abhishek Choudhary
 
 ---
 

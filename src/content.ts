@@ -19,10 +19,10 @@ export const meta = {
   oneLiner:
     'Reads driver stress and fatigue from team-radio audio and turns it into pit-wall strategy calls.',
   members: [
-    'Abhishek Choudhary',
+    'Divyanshu Kasherwal',
     'Shreevats Dhyani',
     'Akshat Saraswat',
-    'Divyanshu Kasherwal',
+    'Abhishek Choudhary',
   ],
 } as const
 
