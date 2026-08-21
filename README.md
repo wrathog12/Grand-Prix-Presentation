@@ -26,6 +26,19 @@ npm run preview    # serve the built bundle
 
 Requires Node 20.19+.
 
+## Presenting it
+
+A **FULLSCREEN** button sits in the bottom-right corner. Click it, or press
+**`F`** from anywhere on the page. `Escape` or `F` again exits; the button
+recedes to 25 % opacity once you're fullscreen so it isn't sitting on the deck
+all presentation, and comes back on hover.
+
+Note that no site can enter fullscreen on load by itself — the Fullscreen API
+requires a user gesture, so the click (or the `F`) is that gesture.
+
+The section rail on the right edge also works as navigation: click any mark to
+jump straight to that page instead of scrolling through the ones before it.
+
 ## It runs offline
 
 The judged round assumes venue wifi is dead, so nothing here reaches the network

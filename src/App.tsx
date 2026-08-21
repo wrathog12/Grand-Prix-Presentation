@@ -1,3 +1,4 @@
+import { FullscreenButton } from './components/FullscreenButton'
 import { ProgressRail } from './components/ProgressRail'
 import { useSmoothScroll } from './lib/useSmoothScroll'
 import { Cover } from './sections/Cover'
@@ -14,6 +15,7 @@ export default function App() {
   return (
     <>
       <ProgressRail />
+      <FullscreenButton />
       <main>
         <Cover />
         <Problem />
