@@ -22,7 +22,7 @@ export const meta = {
     'Abhishek Choudhary',
     'Shreevats Dhyani',
     'Akshat Saraswat',
-    'Divyanshu Kaherwal',
+    'Divyanshu Kasherwal',
   ],
 } as const
 

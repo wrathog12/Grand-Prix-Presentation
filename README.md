@@ -8,7 +8,7 @@ Decision-Making*.
 > pit-wall strategy calls.
 
 **Team BotGods** — Abhishek Choudhary · Shreevats Dhyani · Akshat Saraswat ·
-Divyanshu Kaherwal
+Divyanshu Kasherwal
 
 ---
 
